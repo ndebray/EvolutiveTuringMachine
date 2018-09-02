@@ -1,0 +1,2 @@
+#!/bin/bash
+./evolutiveturingmachine.py --nogui --duration 300 --image image.png 1>>log.txt 2>>err.txt&
